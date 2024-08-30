@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there, I'm Nadya 👋
+### Frontend Developer
 
 [![codewars](https://www.codewars.com/users/mengmeiying/badges/large)](https://www.codewars.com/users/mengmeiying)
 
