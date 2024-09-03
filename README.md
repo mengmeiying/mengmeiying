@@ -40,11 +40,19 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mengmeiying&theme=nord_bright" height="140">
 
 </details>
+  <details>
+  <summary>⭐ Подробно про репозитории:</summary>
+  <ol>
+    <li><a href='https://github.com/mengmeiying/pet-care'>Pet care.</a><br/>
+    Тестовое задание. Сделано полностью по тз, пиксель пёрфект. Проект написан на Pug, стилизован с помощью SCSS, добавлен функционал с помощью js и сторонних библиотек, всё собрано с помощью Gulp.</li>  
+    <li><a href='https://github.com/mengmeiying/pair-game'>Игра Мемо.</a><br/>
+    Учебный проект. Функционал написан на Vanila Js. Суть игры в том, чтобы найти все пары чисел за минимальное количество времени.</li> 
+    <li><a href='https://github.com/mengmeiying/Createx'>Createx.</a><br/>
+    Учебный проект. Сделано полностью по тз, пиксель пёрфект. Проект написан на Pug, стилизован с помощью SCSS, добавлен функционал с помощью js и сторонних библиотек, всё собрано с помощью Gulp. Вёрстка адаптивная, резиновая, разметка валидная и семантическая, классы и файловая структура написаны по бэм-методологии.</li>  
+  </ol>
 
-
+  </details>
   
-
-
 
 
 
