@@ -40,8 +40,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mengmeiying&theme=nord_bright" height="140">
 
 </details>
-  <details>
-  <summary>⭐ Подробно про репозитории:</summary>
+
+  <h3>⭐ Подробно про репозитории:</h3>
   <ol>
     <li><a href='https://github.com/mengmeiying/pet-care'>Pet care.</a><br/>
     Тестовое задание. Сделано полностью по тз, пиксель пёрфект. Проект написан на Pug, стилизован с помощью SCSS, добавлен функционал с помощью js и сторонних библиотек, всё собрано с помощью Gulp.</li>  
@@ -55,8 +55,7 @@
     Проект выполнен во время прохождения курса по Vue.js. Используются продвинутые возможности Vue - роутинг, асинхронные компоненты, авторизация и хранение пользовательских данных в local storage. Используется Options API. Проект <a href='https://contact-coach-6ce57.web.app/'>загружен на Firebase Hosting</a>.</li> 
   </ol>
 
-  </details>
-  
+
 
 
 
